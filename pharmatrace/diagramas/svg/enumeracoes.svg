@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1204" height="501" viewBox="0 0 1204 501" font-family="Liberation Sans, Arial, sans-serif"><defs>
+<marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11" fill="none" stroke="#3A3A3A" stroke-width="1.4"/></marker>
+<marker id="filled" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0.5 L12 6 L0 11.5 Z" fill="#3A3A3A"/></marker>
+<marker id="tri" viewBox="0 0 18 18" refX="17" refY="9" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L17 9 L1 17 Z" fill="white" stroke="#3A3A3A" stroke-width="1.3"/></marker>
+<marker id="diamond" viewBox="0 0 22 12" refX="21" refY="6" markerWidth="22" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 6 L11 1 L21 6 L11 11 Z" fill="#3A3A3A" stroke="#3A3A3A" stroke-width="1"/></marker>
+</defs><rect x="0" y="0" width="100%" height="100%" fill="white"/><rect x="30.0" y="30.0" width="196.8" height="227.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="30.0" y="30.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="128.4" y="47.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="128.4" y="63.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">StatusLoteProducao</text>
+<text x="40.0" y="88.0" font-size="13" text-anchor="start" fill="#2B2B2B">PLANEJADO</text>
+<text x="40.0" y="105.5" font-size="13" text-anchor="start" fill="#2B2B2B">EM_PRODUCAO</text>
+<text x="40.0" y="123.0" font-size="13" text-anchor="start" fill="#2B2B2B">EM_QUARENTENA</text>
+<text x="40.0" y="140.5" font-size="13" text-anchor="start" fill="#2B2B2B">APROVADO</text>
+<text x="40.0" y="158.0" font-size="13" text-anchor="start" fill="#2B2B2B">REPROVADO</text>
+<text x="40.0" y="175.5" font-size="13" text-anchor="start" fill="#2B2B2B">BLOQUEADO</text>
+<text x="40.0" y="193.0" font-size="13" text-anchor="start" fill="#2B2B2B">ESGOTADO</text>
+<text x="40.0" y="210.5" font-size="13" text-anchor="start" fill="#2B2B2B">VENCIDO</text>
+<text x="40.0" y="228.0" font-size="13" text-anchor="start" fill="#2B2B2B">DESCARTADO</text>
+<text x="40.0" y="245.5" font-size="13" text-anchor="start" fill="#2B2B2B">CANCELADO</text>
+<rect x="266.8" y="30.0" width="196.8" height="174.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="266.8" y="30.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="365.2" y="47.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="365.2" y="63.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">StatusLoteMaterial</text>
+<text x="276.8" y="88.0" font-size="13" text-anchor="start" fill="#2B2B2B">QUARENTENA</text>
+<text x="276.8" y="105.5" font-size="13" text-anchor="start" fill="#2B2B2B">APROVADO</text>
+<text x="276.8" y="123.0" font-size="13" text-anchor="start" fill="#2B2B2B">REPROVADO</text>
+<text x="276.8" y="140.5" font-size="13" text-anchor="start" fill="#2B2B2B">BLOQUEADO</text>
+<text x="276.8" y="158.0" font-size="13" text-anchor="start" fill="#2B2B2B">ESGOTADO</text>
+<text x="276.8" y="175.5" font-size="13" text-anchor="start" fill="#2B2B2B">VENCIDO</text>
+<text x="276.8" y="193.0" font-size="13" text-anchor="start" fill="#2B2B2B">DESCARTADO</text>
+<rect x="503.6" y="30.0" width="196.8" height="122.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="503.6" y="30.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="602.1" y="47.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="602.1" y="63.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">StatusOrdem</text>
+<text x="513.6" y="88.0" font-size="13" text-anchor="start" fill="#2B2B2B">ABERTA</text>
+<text x="513.6" y="105.5" font-size="13" text-anchor="start" fill="#2B2B2B">EM_EXECUCAO</text>
+<text x="513.6" y="123.0" font-size="13" text-anchor="start" fill="#2B2B2B">CONCLUIDA</text>
+<text x="513.6" y="140.5" font-size="13" text-anchor="start" fill="#2B2B2B">CANCELADA</text>
+<rect x="740.5" y="30.0" width="196.8" height="104.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="740.5" y="30.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="838.9" y="47.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="838.9" y="63.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">StatusReserva</text>
+<text x="750.5" y="88.0" font-size="13" text-anchor="start" fill="#2B2B2B">ATIVA</text>
+<text x="750.5" y="105.5" font-size="13" text-anchor="start" fill="#2B2B2B">CONSUMIDA</text>
+<text x="750.5" y="123.0" font-size="13" text-anchor="start" fill="#2B2B2B">LIBERADA</text>
+<rect x="977.3" y="30.0" width="196.8" height="122.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="977.3" y="30.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1075.7" y="47.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="1075.7" y="63.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">TipoEtapa</text>
+<text x="987.3" y="88.0" font-size="13" text-anchor="start" fill="#2B2B2B">PESAGEM</text>
+<text x="987.3" y="105.5" font-size="13" text-anchor="start" fill="#2B2B2B">MISTURA</text>
+<text x="987.3" y="123.0" font-size="13" text-anchor="start" fill="#2B2B2B">ENVASE</text>
+<text x="987.3" y="140.5" font-size="13" text-anchor="start" fill="#2B2B2B">EMBALAGEM</text>
+<rect x="30.0" y="297.0" width="196.8" height="104.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="30.0" y="297.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="128.4" y="314.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="128.4" y="330.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">TipoMaterial</text>
+<text x="40.0" y="355.0" font-size="13" text-anchor="start" fill="#2B2B2B">MATERIA_PRIMA</text>
+<text x="40.0" y="372.5" font-size="13" text-anchor="start" fill="#2B2B2B">EMBALAGEM_PRIMARIA</text>
+<text x="40.0" y="390.0" font-size="13" text-anchor="start" fill="#2B2B2B">EMBALAGEM_SECUNDARIA</text>
+<rect x="266.8" y="297.0" width="196.8" height="157.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="266.8" y="297.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="365.2" y="314.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="365.2" y="330.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">TipoMovimentacao</text>
+<text x="276.8" y="355.0" font-size="13" text-anchor="start" fill="#2B2B2B">ENTRADA</text>
+<text x="276.8" y="372.5" font-size="13" text-anchor="start" fill="#2B2B2B">RESERVA</text>
+<text x="276.8" y="390.0" font-size="13" text-anchor="start" fill="#2B2B2B">BAIXA_CONSUMO</text>
+<text x="276.8" y="407.5" font-size="13" text-anchor="start" fill="#2B2B2B">SAIDA_EXPEDICAO</text>
+<text x="276.8" y="425.0" font-size="13" text-anchor="start" fill="#2B2B2B">DESCARTE</text>
+<text x="276.8" y="442.5" font-size="13" text-anchor="start" fill="#2B2B2B">AJUSTE</text>
+<rect x="503.6" y="297.0" width="196.8" height="87.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="503.6" y="297.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="602.1" y="314.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="602.1" y="330.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">ResultadoAnalise</text>
+<text x="513.6" y="355.0" font-size="13" text-anchor="start" fill="#2B2B2B">APROVADO</text>
+<text x="513.6" y="372.5" font-size="13" text-anchor="start" fill="#2B2B2B">REPROVADO</text>
+<rect x="740.5" y="297.0" width="196.8" height="104.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="740.5" y="297.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="838.9" y="314.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="838.9" y="330.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">TipoCliente</text>
+<text x="750.5" y="355.0" font-size="13" text-anchor="start" fill="#2B2B2B">DISTRIBUIDORA</text>
+<text x="750.5" y="372.5" font-size="13" text-anchor="start" fill="#2B2B2B">FARMACIA</text>
+<text x="750.5" y="390.0" font-size="13" text-anchor="start" fill="#2B2B2B">HOSPITAL</text>
+<rect x="977.3" y="297.0" width="196.8" height="174.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="977.3" y="297.0" width="196.8" height="42.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1075.7" y="314.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«enumeration»</text>
+<text x="1075.7" y="330.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">PerfilAcesso</text>
+<text x="987.3" y="355.0" font-size="13" text-anchor="start" fill="#2B2B2B">PCP</text>
+<text x="987.3" y="372.5" font-size="13" text-anchor="start" fill="#2B2B2B">OPERADOR_PRODUCAO</text>
+<text x="987.3" y="390.0" font-size="13" text-anchor="start" fill="#2B2B2B">ANALISTA_CQ</text>
+<text x="987.3" y="407.5" font-size="13" text-anchor="start" fill="#2B2B2B">GARANTIA_QUALIDADE</text>
+<text x="987.3" y="425.0" font-size="13" text-anchor="start" fill="#2B2B2B">ALMOXARIFE</text>
+<text x="987.3" y="442.5" font-size="13" text-anchor="start" fill="#2B2B2B">OPERADOR_EXPEDICAO</text>
+<text x="987.3" y="460.0" font-size="13" text-anchor="start" fill="#2B2B2B">ADMINISTRADOR</text></svg>

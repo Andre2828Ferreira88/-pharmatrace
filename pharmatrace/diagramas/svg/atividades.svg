@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1390" height="1690" viewBox="0 0 1390 1690" font-family="Liberation Sans, Arial, sans-serif"><defs>
+<marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11" fill="none" stroke="#3A3A3A" stroke-width="1.4"/></marker>
+<marker id="filled" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0.5 L12 6 L0 11.5 Z" fill="#3A3A3A"/></marker>
+<marker id="tri" viewBox="0 0 18 18" refX="17" refY="9" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L17 9 L1 17 Z" fill="white" stroke="#3A3A3A" stroke-width="1.3"/></marker>
+<marker id="diamond" viewBox="0 0 22 12" refX="21" refY="6" markerWidth="22" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 6 L11 1 L21 6 L11 11 Z" fill="#3A3A3A" stroke="#3A3A3A" stroke-width="1"/></marker>
+</defs><rect x="0" y="0" width="100%" height="100%" fill="white"/><rect x="20.0" y="20.0" width="1350.0" height="1650.0" rx="0" fill="white" stroke="#4D4D4D" stroke-width="1.4"/>
+<rect x="290.0" y="60.0" width="270.0" height="1610.0" rx="0" fill="#F3F8FD" stroke="none" stroke-width="0"/>
+<rect x="20.0" y="20.0" width="270.0" height="40.0" rx="0" fill="#DCE8F3" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="155.0" y="46.0" font-size="14" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Planejador (PCP)</text>
+<rect x="290.0" y="20.0" width="270.0" height="40.0" rx="0" fill="#DCE8F3" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="425.0" y="46.0" font-size="14" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Sistema</text>
+<line x1="290.0" y1="20.0" x2="290.0" y2="1670.0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="560.0" y="20.0" width="270.0" height="40.0" rx="0" fill="#DCE8F3" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="695.0" y="46.0" font-size="14" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Almoxarifado</text>
+<line x1="560.0" y1="20.0" x2="560.0" y2="1670.0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="830.0" y="20.0" width="270.0" height="40.0" rx="0" fill="#DCE8F3" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="965.0" y="46.0" font-size="14" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Operador de Produção</text>
+<line x1="830.0" y1="20.0" x2="830.0" y2="1670.0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1100.0" y="20.0" width="270.0" height="40.0" rx="0" fill="#DCE8F3" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1235.0" y="46.0" font-size="14" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Controle de Qualidade</text>
+<line x1="1100.0" y1="20.0" x2="1100.0" y2="1670.0" stroke="#4D4D4D" stroke-width="1.2"/>
+<circle cx="155.0" cy="85.0" r="11" fill="#2B2B2B"/>
+<rect x="44.0" y="128.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="155.0" y="151.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Abrir ordem de produção</text>
+<text x="155.0" y="168.5" font-size="13" text-anchor="middle" fill="#2B2B2B">(produto, fórmula e quantidade)</text>
+<rect x="314.0" y="213.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="236.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Calcular insumos necessários</text>
+<text x="425.0" y="253.5" font-size="13" text-anchor="middle" fill="#2B2B2B">a partir da fórmula</text>
+<rect x="314.0" y="298.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="321.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Verificar saldo de lotes aprovados</text>
+<text x="425.0" y="338.5" font-size="13" text-anchor="middle" fill="#2B2B2B">e dentro da validade</text>
+<polygon points="425.0,390.0 445.0,410.0 425.0,430.0 405.0,410.0" fill="white" stroke="#1F4E79" stroke-width="1.3"/>
+<rect x="44.0" y="473.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="155.0" y="496.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Manter ordem pendente</text>
+<text x="155.0" y="513.5" font-size="13" text-anchor="middle" fill="#2B2B2B">e solicitar compra</text>
+<rect x="314.0" y="473.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="496.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Reservar lotes de insumo</text>
+<text x="425.0" y="513.5" font-size="13" text-anchor="middle" fill="#2B2B2B">pelo critério FEFO</text>
+<circle cx="155.0" cy="585.0" r="13" fill="white" stroke="#2B2B2B" stroke-width="1.6"/>
+<circle cx="155.0" cy="585.0" r="8" fill="#2B2B2B"/>
+<rect x="314.0" y="558.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="581.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Gerar número único do lote</text>
+<text x="425.0" y="598.5" font-size="13" text-anchor="middle" fill="#2B2B2B">(status Planejado)</text>
+<rect x="584.0" y="643.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="695.0" y="666.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Separar e enviar os</text>
+<text x="695.0" y="683.5" font-size="13" text-anchor="middle" fill="#2B2B2B">insumos reservados</text>
+<polygon points="965.0,735.0 985.0,755.0 965.0,775.0 945.0,755.0" fill="white" stroke="#1F4E79" stroke-width="1.3"/>
+<rect x="854.0" y="813.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="965.0" y="836.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Executar etapa e ler o código</text>
+<text x="965.0" y="853.5" font-size="13" text-anchor="middle" fill="#2B2B2B">de barras dos insumos</text>
+<rect x="314.0" y="898.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="921.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Registrar etapa e baixar</text>
+<text x="425.0" y="938.5" font-size="13" text-anchor="middle" fill="#2B2B2B">consumo do estoque</text>
+<polygon points="425.0,990.0 445.0,1010.0 425.0,1030.0 405.0,1010.0" fill="white" stroke="#1F4E79" stroke-width="1.3"/>
+<rect x="314.0" y="1073.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="1096.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Colocar lote em quarentena</text>
+<text x="425.0" y="1113.5" font-size="13" text-anchor="middle" fill="#2B2B2B">e notificar o CQ</text>
+<rect x="1124.0" y="1154.5" width="222.0" height="71.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="1235.0" y="1178.0" font-size="13" text-anchor="middle" fill="#2B2B2B">Analisar amostra e registrar</text>
+<text x="1235.0" y="1195.0" font-size="13" text-anchor="middle" fill="#2B2B2B">laudo com assinatura</text>
+<text x="1235.0" y="1212.0" font-size="13" text-anchor="middle" fill="#2B2B2B">eletrônica</text>
+<polygon points="1235.0,1270.0 1255.0,1290.0 1235.0,1310.0 1215.0,1290.0" fill="white" stroke="#1F4E79" stroke-width="1.3"/>
+<rect x="314.0" y="1353.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="1376.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Dar entrada do lote como</text>
+<text x="425.0" y="1393.5" font-size="13" text-anchor="middle" fill="#2B2B2B">produto acabado</text>
+<rect x="1124.0" y="1353.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="1235.0" y="1376.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Registrar reprovação e</text>
+<text x="1235.0" y="1393.5" font-size="13" text-anchor="middle" fill="#2B2B2B">abrir desvio de qualidade</text>
+<polygon points="425.0,1445.0 445.0,1465.0 425.0,1485.0 405.0,1465.0" fill="white" stroke="#1F4E79" stroke-width="1.3"/>
+<rect x="314.0" y="1523.0" width="222.0" height="54.0" rx="12" fill="#EAF1F8" stroke="#1F4E79" stroke-width="1.3"/>
+<text x="425.0" y="1546.5" font-size="13" text-anchor="middle" fill="#2B2B2B">Atualizar status do lote e</text>
+<text x="425.0" y="1563.5" font-size="13" text-anchor="middle" fill="#2B2B2B">registrar trilha de auditoria</text>
+<circle cx="425.0" cy="1630.0" r="13" fill="white" stroke="#2B2B2B" stroke-width="1.6"/>
+<circle cx="425.0" cy="1630.0" r="8" fill="#2B2B2B"/>
+<path d="M 155.0 96.0 L 155.0 128.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 155.0 182.0 L 155.0 240.0 L 314.0 240.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 267.0 L 425.0 298.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 352.0 L 425.0 390.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 405.0 410.0 L 155.0 410.0 L 155.0 473.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<rect x="160.0" y="390.0" width="104.8" height="17.0" fill="white"/>
+<text x="163.0" y="401.0" font-size="12" text-anchor="start" fill="#2B2B2B">[saldo insuficiente]</text>
+<path d="M 425.0 430.0 L 425.0 473.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<rect x="430.0" y="437.0" width="95.4" height="17.0" fill="white"/>
+<text x="433.0" y="448.0" font-size="12" text-anchor="start" fill="#2B2B2B">[saldo suficiente]</text>
+<path d="M 155.0 527.0 L 155.0 572.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 527.0 L 425.0 558.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 612.0 L 425.0 670.0 L 584.0 670.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 695.0 697.0 L 695.0 755.0 L 945.0 755.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 965.0 775.0 L 965.0 813.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 965.0 867.0 L 965.0 925.0 L 536.0 925.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 952.0 L 425.0 990.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 445.0 1010.0 L 1094.0 1010.0 L 1094.0 755.0 L 985.0 755.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<rect x="452.0" y="990.0" width="124.8" height="17.0" fill="white"/>
+<text x="455.0" y="1001.0" font-size="12" text-anchor="start" fill="#2B2B2B">[há etapas pendentes]</text>
+<path d="M 425.0 1030.0 L 425.0 1073.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<rect x="430.0" y="1037.0" width="158.1" height="17.0" fill="white"/>
+<text x="433.0" y="1048.0" font-size="12" text-anchor="start" fill="#2B2B2B">[todas as etapas concluídas]</text>
+<path d="M 425.0 1127.0 L 425.0 1190.0 L 1124.0 1190.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 1235.0 1225.5 L 1235.0 1270.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 1215.0 1290.0 L 425.0 1290.0 L 425.0 1353.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<rect x="430.0" y="1270.0" width="85.4" height="17.0" fill="white"/>
+<text x="433.0" y="1281.0" font-size="12" text-anchor="start" fill="#2B2B2B">[lote conforme]</text>
+<path d="M 1235.0 1310.0 L 1235.0 1353.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<rect x="1240.0" y="1317.0" width="108.8" height="17.0" fill="white"/>
+<text x="1243.0" y="1328.0" font-size="12" text-anchor="start" fill="#2B2B2B">[lote não conforme]</text>
+<path d="M 425.0 1407.0 L 425.0 1445.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 1235.0 1407.0 L 1235.0 1465.0 L 445.0 1465.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 1485.0 L 425.0 1523.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/>
+<path d="M 425.0 1577.0 L 425.0 1617.0" fill="none" stroke="#3A3A3A" stroke-width="1.4" marker-end="url(#filled)"/></svg>

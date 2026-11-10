@@ -1,0 +1,270 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2189" height="1253" viewBox="0 0 2189 1253" font-family="Liberation Sans, Arial, sans-serif"><defs>
+<marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11" fill="none" stroke="#3A3A3A" stroke-width="1.4"/></marker>
+<marker id="filled" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="11" markerHeight="11" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M0 0.5 L12 6 L0 11.5 Z" fill="#3A3A3A"/></marker>
+<marker id="tri" viewBox="0 0 18 18" refX="17" refY="9" markerWidth="18" markerHeight="18" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L17 9 L1 17 Z" fill="white" stroke="#3A3A3A" stroke-width="1.3"/></marker>
+<marker id="diamond" viewBox="0 0 22 12" refX="21" refY="6" markerWidth="22" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 6 L11 1 L21 6 L11 11 Z" fill="#3A3A3A" stroke="#3A3A3A" stroke-width="1"/></marker>
+</defs><rect x="0" y="0" width="100%" height="100%" fill="white"/><path d="M 680.5 99.0 L 878.6 99.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="708.5" y="93.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="864.6" y="93.0" font-size="12" text-anchor="end" fill="#2B2B2B">1..*</text>
+<path d="M 1220.4 81.5 L 1331.7 81.5" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="1248.4" y="75.5" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="1317.7" y="75.5" font-size="12" text-anchor="end" fill="#2B2B2B">1..*</text>
+<path d="M 1526.4 81.5 L 1664.5 81.5" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1540.4" y="75.5" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="1650.5" y="75.5" font-size="12" text-anchor="end" fill="#2B2B2B">1</text>
+<path d="M 1751.9 288.0 L 1751.9 193.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1757.9" y="280.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="1757.9" y="211.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 1887.4 338.0 L 1977.4 338.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1901.4" y="332.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="1963.4" y="332.0" font-size="12" text-anchor="end" fill="#2B2B2B">1</text>
+<path d="M 145.1 288.0 L 145.1 140.5" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="151.1" y="280.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="151.1" y="158.5" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 145.1 388.5 L 145.1 536.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="151.1" y="420.5" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="151.1" y="528.0" font-size="12" text-anchor="start" fill="#2B2B2B">1..*</text>
+<path d="M 231.1 566.0 L 340.3 566.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="245.1" y="560.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="326.3" y="560.0" font-size="12" text-anchor="end" fill="#2B2B2B">1</text>
+<path d="M 513.8 288.0 L 513.8 193.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="519.8" y="280.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="519.8" y="211.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 593.8 288.0 L 593.8 231.0 L 918.6 231.0 L 918.6 158.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="599.8" y="280.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="924.6" y="176.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 654.6 333.0 L 954.5 333.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="682.6" y="327.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="940.5" y="327.0" font-size="12" text-anchor="end" fill="#2B2B2B">0..*</text>
+<path d="M 1144.5 333.0 L 1616.4 333.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1158.5" y="327.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="1602.4" y="327.0" font-size="12" text-anchor="end" fill="#2B2B2B">1</text>
+<path d="M 553.8 441.0 L 553.8 536.0" fill="none" stroke="#3A3A3A" stroke-width="1.3"/>
+<text x="559.8" y="459.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="559.8" y="528.0" font-size="12" text-anchor="start" fill="#2B2B2B">0..1</text>
+<text x="545.8" y="492.5" font-size="12" text-anchor="end" fill="#2B2B2B" font-style="italic">gera ▼</text>
+<path d="M 767.3 581.0 L 857.3 581.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="795.3" y="575.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="843.3" y="575.0" font-size="12" text-anchor="end" fill="#2B2B2B">0..*</text>
+<path d="M 1241.7 566.0 L 1343.1 566.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="1269.7" y="560.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="1329.1" y="560.0" font-size="12" text-anchor="end" fill="#2B2B2B">0..*</text>
+<path d="M 1515.1 566.0 L 1661.4 566.0 L 1661.4 458.5" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="1529.1" y="560.0" font-size="12" text-anchor="start" fill="#2B2B2B">*</text>
+<text x="1667.4" y="476.5" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 553.8 724.0 L 553.8 781.5 L 1801.9 781.5 L 1801.9 458.5" fill="none" stroke="#3A3A3A" stroke-width="1.3"/>
+<path d="M 1191.9 781.5 L 1191.9 839.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#tri)"/>
+<path d="M 1105.5 879.0 L 649.7 879.0" fill="none" stroke="#3A3A3A" stroke-width="1.3"/>
+<text x="1091.5" y="873.0" font-size="12" text-anchor="end" fill="#2B2B2B">1</text>
+<text x="663.7" y="873.0" font-size="12" text-anchor="start" fill="#2B2B2B">0..*</text>
+<path d="M 1278.2 879.0 L 1665.9 879.0" fill="none" stroke="#3A3A3A" stroke-width="1.3"/>
+<text x="1292.2" y="873.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<text x="1651.9" y="873.0" font-size="12" text-anchor="end" fill="#2B2B2B">0..*</text>
+<path d="M 457.9 859.0 L 250.3 859.0" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-start="url(#diamond)"/>
+<text x="429.9" y="853.0" font-size="12" text-anchor="end" fill="#2B2B2B">1</text>
+<text x="264.3" y="853.0" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 339.1 1103.5 L 269.1 1103.5" fill="none" stroke="#3A3A3A" stroke-width="1.3" marker-end="url(#open)"/>
+<text x="325.1" y="1097.5" font-size="12" text-anchor="end" fill="#2B2B2B">*</text>
+<text x="283.1" y="1097.5" font-size="12" text-anchor="start" fill="#2B2B2B">1</text>
+<path d="M 1144.9 1113.5 L 1254.9 1113.5" fill="none" stroke="#3A3A3A" stroke-width="1.3" stroke-dasharray="7 5" marker-end="url(#open)"/>
+<text x="1199.9" y="1106.5" font-size="12" text-anchor="middle" fill="#2B2B2B">«use»</text>
+<rect x="59.1" y="40.0" width="172.0" height="100.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="59.1" y="40.0" width="172.0" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="145.1" y="59.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Cliente</text>
+<text x="69.1" y="84.0" font-size="13" text-anchor="start" fill="#2B2B2B">- cnpj: String</text>
+<text x="69.1" y="101.5" font-size="13" text-anchor="start" fill="#2B2B2B">- razaoSocial: String</text>
+<text x="69.1" y="119.0" font-size="13" text-anchor="start" fill="#2B2B2B">- tipo: TipoCliente</text>
+<line x1="59.1" y1="130.5" x2="231.1" y2="130.5" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="56.8" y="288.0" width="176.6" height="100.5" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="56.8" y="288.0" width="176.6" height="28.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="145.1" y="307.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Expedicao</text>
+<text x="66.8" y="332.0" font-size="13" text-anchor="start" fill="#2B2B2B">- numeroNotaFiscal: String</text>
+<text x="66.8" y="349.5" font-size="13" text-anchor="start" fill="#2B2B2B">- dataExpedicao: Date</text>
+<line x1="56.8" y1="361.0" x2="233.4" y2="361.0" stroke="#4D4D4D" stroke-width="1"/>
+<text x="66.8" y="377.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ confirmar(): void</text>
+<rect x="59.1" y="536.0" width="172.0" height="65.5" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="59.1" y="536.0" width="172.0" height="28.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="145.1" y="555.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">ItemExpedicao</text>
+<text x="69.1" y="580.0" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidade: double</text>
+<line x1="59.1" y1="591.5" x2="231.1" y2="591.5" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="40.0" y="819.0" width="210.3" height="100.5" rx="0" fill="#FFF8F2" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="40.0" y="819.0" width="210.3" height="28.0" rx="0" fill="#F8CBAD" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="145.1" y="838.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">AssinaturaEletronica</text>
+<text x="50.0" y="863.0" font-size="13" text-anchor="start" fill="#2B2B2B">- dataHora: DateTime</text>
+<text x="50.0" y="880.5" font-size="13" text-anchor="start" fill="#2B2B2B">- significado: String</text>
+<line x1="40.0" y1="892.0" x2="250.3" y2="892.0" stroke="#4D4D4D" stroke-width="1"/>
+<text x="50.0" y="908.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ validar(senha: String): boolean</text>
+<rect x="427.1" y="40.0" width="253.4" height="153.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="427.1" y="40.0" width="253.4" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="553.8" y="59.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Produto</text>
+<text x="437.1" y="84.0" font-size="13" text-anchor="start" fill="#2B2B2B">- codigo: String</text>
+<text x="437.1" y="101.5" font-size="13" text-anchor="start" fill="#2B2B2B">- nome: String</text>
+<text x="437.1" y="119.0" font-size="13" text-anchor="start" fill="#2B2B2B">- formaFarmaceutica: String</text>
+<text x="437.1" y="136.5" font-size="13" text-anchor="start" fill="#2B2B2B">- concentracao: String</text>
+<text x="437.1" y="154.0" font-size="13" text-anchor="start" fill="#2B2B2B">- prazoValidadeMeses: int</text>
+<line x1="427.1" y1="165.5" x2="680.5" y2="165.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="437.1" y="181.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ calcularValidade(dataFab: Date): Date</text>
+<rect x="453.0" y="288.0" width="201.6" height="153.0" rx="0" fill="#F3F8FD" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="453.0" y="288.0" width="201.6" height="28.0" rx="0" fill="#BDD7EE" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="553.8" y="307.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">OrdemProducao</text>
+<text x="463.0" y="332.0" font-size="13" text-anchor="start" fill="#2B2B2B">- numero: String</text>
+<text x="463.0" y="349.5" font-size="13" text-anchor="start" fill="#2B2B2B">- dataAbertura: Date</text>
+<text x="463.0" y="367.0" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidadePlanejada: double</text>
+<text x="463.0" y="384.5" font-size="13" text-anchor="start" fill="#2B2B2B">- status: StatusOrdem</text>
+<line x1="453.0" y1="396.0" x2="654.6" y2="396.0" stroke="#4D4D4D" stroke-width="1"/>
+<text x="463.0" y="412.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ abrir(): void</text>
+<text x="463.0" y="429.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ cancelar(motivo: String): void</text>
+<rect x="340.3" y="536.0" width="427.1" height="188.0" rx="0" fill="#F3F8FD" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="340.3" y="536.0" width="427.1" height="28.0" rx="0" fill="#BDD7EE" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="553.8" y="555.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">LoteProducao</text>
+<text x="350.3" y="580.0" font-size="13" text-anchor="start" fill="#2B2B2B">- dataFabricacao: Date</text>
+<text x="350.3" y="597.5" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidadeProduzida: double</text>
+<text x="350.3" y="615.0" font-size="13" text-anchor="start" fill="#2B2B2B">- status: StatusLoteProducao</text>
+<line x1="340.3" y1="626.5" x2="767.3" y2="626.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="350.3" y="642.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ registrarEtapa(tipo: TipoEtapa, operador: Usuario): EtapaFabricacao</text>
+<text x="350.3" y="660.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ enviarParaQuarentena(): void</text>
+<text x="350.3" y="677.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ aprovar(analise: AnaliseQualidade): void</text>
+<text x="350.3" y="695.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ reprovar(analise: AnaliseQualidade): void</text>
+<text x="350.3" y="712.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ bloquear(motivo: String): void</text>
+<rect x="457.9" y="819.0" width="191.8" height="135.5" rx="0" fill="#FFF8F2" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="457.9" y="819.0" width="191.8" height="28.0" rx="0" fill="#F8CBAD" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="553.8" y="838.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">AnaliseQualidade</text>
+<text x="467.9" y="863.0" font-size="13" text-anchor="start" fill="#2B2B2B">- dataAnalise: Date</text>
+<text x="467.9" y="880.5" font-size="13" text-anchor="start" fill="#2B2B2B">- resultado: ResultadoAnalise</text>
+<text x="467.9" y="898.0" font-size="13" text-anchor="start" fill="#2B2B2B">- numeroLaudo: String</text>
+<text x="467.9" y="915.5" font-size="13" text-anchor="start" fill="#2B2B2B">- observacao: String</text>
+<text x="467.9" y="933.0" font-size="13" text-anchor="start" fill="#2B2B2B">- analista: Usuario</text>
+<line x1="457.9" y1="944.5" x2="649.7" y2="944.5" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="878.6" y="40.0" width="341.8" height="118.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="878.6" y="40.0" width="341.8" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1049.5" y="59.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Formula</text>
+<text x="888.6" y="84.0" font-size="13" text-anchor="start" fill="#2B2B2B">- versao: int</text>
+<text x="888.6" y="101.5" font-size="13" text-anchor="start" fill="#2B2B2B">- tamanhoPadraoLote: double</text>
+<text x="888.6" y="119.0" font-size="13" text-anchor="start" fill="#2B2B2B">- ativa: boolean</text>
+<line x1="878.6" y1="130.5" x2="1220.4" y2="130.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="888.6" y="146.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ calcularNecessidade(qtd: double): List&lt;ItemFormula&gt;</text>
+<rect x="954.5" y="288.0" width="190.0" height="118.0" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="954.5" y="288.0" width="190.0" height="28.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1049.5" y="307.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Reserva</text>
+<text x="964.5" y="332.0" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidade: double</text>
+<text x="964.5" y="349.5" font-size="13" text-anchor="start" fill="#2B2B2B">- status: StatusReserva</text>
+<line x1="954.5" y1="361.0" x2="1144.5" y2="361.0" stroke="#4D4D4D" stroke-width="1"/>
+<text x="964.5" y="377.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ consumir(qtd: double): void</text>
+<text x="964.5" y="394.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ liberar(): void</text>
+<rect x="857.3" y="536.0" width="384.4" height="170.5" rx="0" fill="#F3F8FD" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="857.3" y="536.0" width="384.4" height="28.0" rx="0" fill="#BDD7EE" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1049.5" y="555.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">EtapaFabricacao</text>
+<text x="867.3" y="580.0" font-size="13" text-anchor="start" fill="#2B2B2B">- tipo: TipoEtapa</text>
+<text x="867.3" y="597.5" font-size="13" text-anchor="start" fill="#2B2B2B">- inicio: DateTime</text>
+<text x="867.3" y="615.0" font-size="13" text-anchor="start" fill="#2B2B2B">- fim: DateTime</text>
+<text x="867.3" y="632.5" font-size="13" text-anchor="start" fill="#2B2B2B">- equipamento: String</text>
+<text x="867.3" y="650.0" font-size="13" text-anchor="start" fill="#2B2B2B">- operador: Usuario</text>
+<line x1="857.3" y1="661.5" x2="1241.7" y2="661.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="867.3" y="677.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ adicionarConsumo(lote: LoteMaterial, qtd: double): Consumo</text>
+<text x="867.3" y="695.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ concluir(): void</text>
+<rect x="1331.7" y="40.0" width="194.7" height="83.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1331.7" y="40.0" width="194.7" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1429.1" y="59.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">ItemFormula</text>
+<text x="1341.7" y="84.0" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidadePadrao: double</text>
+<text x="1341.7" y="101.5" font-size="13" text-anchor="start" fill="#2B2B2B">- toleranciaPercentual: double</text>
+<line x1="1331.7" y1="113.0" x2="1526.4" y2="113.0" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="1343.1" y="536.0" width="172.0" height="83.0" rx="0" fill="#F3F8FD" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1343.1" y="536.0" width="172.0" height="28.0" rx="0" fill="#BDD7EE" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1429.1" y="555.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Consumo</text>
+<text x="1353.1" y="580.0" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidade: double</text>
+<text x="1353.1" y="597.5" font-size="13" text-anchor="start" fill="#2B2B2B">- dataHora: DateTime</text>
+<line x1="1343.1" y1="609.0" x2="1515.1" y2="609.0" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="1664.5" y="40.0" width="174.9" height="153.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1664.5" y="40.0" width="174.9" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1751.9" y="59.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Material</text>
+<text x="1674.5" y="84.0" font-size="13" text-anchor="start" fill="#2B2B2B">- codigo: String</text>
+<text x="1674.5" y="101.5" font-size="13" text-anchor="start" fill="#2B2B2B">- descricao: String</text>
+<text x="1674.5" y="119.0" font-size="13" text-anchor="start" fill="#2B2B2B">- tipo: TipoMaterial</text>
+<text x="1674.5" y="136.5" font-size="13" text-anchor="start" fill="#2B2B2B">- unidadeMedida: String</text>
+<text x="1674.5" y="154.0" font-size="13" text-anchor="start" fill="#2B2B2B">- estoqueMinimo: double</text>
+<line x1="1664.5" y1="165.5" x2="1839.4" y2="165.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="1674.5" y="181.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ saldoAprovado(): double</text>
+<rect x="1616.4" y="288.0" width="271.0" height="170.5" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1616.4" y="288.0" width="271.0" height="28.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1751.9" y="307.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">LoteMaterial</text>
+<text x="1626.4" y="332.0" font-size="13" text-anchor="start" fill="#2B2B2B">- loteFornecedor: String</text>
+<text x="1626.4" y="349.5" font-size="13" text-anchor="start" fill="#2B2B2B">- dataRecebimento: Date</text>
+<text x="1626.4" y="367.0" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidadeRecebida: double</text>
+<text x="1626.4" y="384.5" font-size="13" text-anchor="start" fill="#2B2B2B">- status: StatusLoteMaterial</text>
+<line x1="1616.4" y1="396.0" x2="1887.4" y2="396.0" stroke="#4D4D4D" stroke-width="1"/>
+<text x="1626.4" y="412.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ estaDisponivel(qtd: double): boolean</text>
+<text x="1626.4" y="429.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ aprovar(analise: AnaliseQualidade): void</text>
+<text x="1626.4" y="447.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ reprovar(analise: AnaliseQualidade): void</text>
+<rect x="1665.9" y="819.0" width="172.0" height="135.5" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1665.9" y="819.0" width="172.0" height="28.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1751.9" y="838.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">MovimentacaoEstoque</text>
+<text x="1675.9" y="863.0" font-size="13" text-anchor="start" fill="#2B2B2B">- tipo: TipoMovimentacao</text>
+<text x="1675.9" y="880.5" font-size="13" text-anchor="start" fill="#2B2B2B">- quantidade: double</text>
+<text x="1675.9" y="898.0" font-size="13" text-anchor="start" fill="#2B2B2B">- dataHora: DateTime</text>
+<text x="1675.9" y="915.5" font-size="13" text-anchor="start" fill="#2B2B2B">- justificativa: String</text>
+<text x="1675.9" y="933.0" font-size="13" text-anchor="start" fill="#2B2B2B">- responsavel: Usuario</text>
+<line x1="1665.9" y1="944.5" x2="1837.9" y2="944.5" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="1977.4" y="298.0" width="172.0" height="100.5" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1977.4" y="298.0" width="172.0" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="2063.4" y="317.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Fornecedor</text>
+<text x="1987.4" y="342.0" font-size="13" text-anchor="start" fill="#2B2B2B">- cnpj: String</text>
+<text x="1987.4" y="359.5" font-size="13" text-anchor="start" fill="#2B2B2B">- razaoSocial: String</text>
+<text x="1987.4" y="377.0" font-size="13" text-anchor="start" fill="#2B2B2B">- qualificado: boolean</text>
+<line x1="1977.4" y1="388.5" x2="2149.4" y2="388.5" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="1105.5" y="839.0" width="172.7" height="149.5" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1105.5" y="839.0" width="172.7" height="42.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1191.9" y="856.0" font-size="11" text-anchor="middle" fill="#2B2B2B">«abstract»</text>
+<text x="1191.9" y="872.0" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold" font-style="italic">Lote</text>
+<text x="1115.5" y="897.0" font-size="13" text-anchor="start" fill="#2B2B2B">- numero: String</text>
+<text x="1115.5" y="914.5" font-size="13" text-anchor="start" fill="#2B2B2B">- dataValidade: Date</text>
+<text x="1115.5" y="932.0" font-size="13" text-anchor="start" fill="#2B2B2B">- saldo: double</text>
+<line x1="1105.5" y1="943.5" x2="1278.2" y2="943.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="1115.5" y="959.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ estaVencido(): boolean</text>
+<text x="1115.5" y="977.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ baixar(qtd: double): void</text>
+<rect x="40.0" y="1063.5" width="229.1" height="118.0" rx="0" fill="#F7F7F7" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="40.0" y="1063.5" width="229.1" height="28.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="154.5" y="1082.5" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">Usuario</text>
+<text x="50.0" y="1107.5" font-size="13" text-anchor="start" fill="#2B2B2B">- matricula: String</text>
+<text x="50.0" y="1125.0" font-size="13" text-anchor="start" fill="#2B2B2B">- nome: String</text>
+<text x="50.0" y="1142.5" font-size="13" text-anchor="start" fill="#2B2B2B">- perfil: PerfilAcesso</text>
+<line x1="40.0" y1="1154.0" x2="269.1" y2="1154.0" stroke="#4D4D4D" stroke-width="1"/>
+<text x="50.0" y="1170.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ autenticar(senha: String): boolean</text>
+<rect x="339.1" y="1063.5" width="172.0" height="135.5" rx="0" fill="#FFF8F2" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="339.1" y="1063.5" width="172.0" height="28.0" rx="0" fill="#F8CBAD" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="425.1" y="1082.5" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">RegistroAuditoria</text>
+<text x="349.1" y="1107.5" font-size="13" text-anchor="start" fill="#2B2B2B">- dataHora: DateTime</text>
+<text x="349.1" y="1125.0" font-size="13" text-anchor="start" fill="#2B2B2B">- acao: String</text>
+<text x="349.1" y="1142.5" font-size="13" text-anchor="start" fill="#2B2B2B">- entidade: String</text>
+<text x="349.1" y="1160.0" font-size="13" text-anchor="start" fill="#2B2B2B">- valorAnterior: String</text>
+<text x="349.1" y="1177.5" font-size="13" text-anchor="start" fill="#2B2B2B">- valorNovo: String</text>
+<line x1="339.1" y1="1189.0" x2="511.1" y2="1189.0" stroke="#4D4D4D" stroke-width="1"/>
+<rect x="621.1" y="1063.5" width="523.9" height="114.5" rx="0" fill="#F3F8FD" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="621.1" y="1063.5" width="523.9" height="42.0" rx="0" fill="#BDD7EE" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="883.0" y="1080.5" font-size="11" text-anchor="middle" fill="#2B2B2B">«service»</text>
+<text x="883.0" y="1096.5" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">ServicoProducao</text>
+<line x1="621.1" y1="1115.5" x2="1144.9" y2="1115.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="631.1" y="1131.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ abrirOrdem(produto: Produto, qtd: double): OrdemProducao</text>
+<text x="631.1" y="1149.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ registrarEtapa(numeroLote: String, tipo: TipoEtapa, consumos: List&lt;Consumo&gt;): void</text>
+<text x="631.1" y="1166.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ rastrearLote(numeroLote: String): List&lt;Lote&gt;</text>
+<rect x="1254.9" y="1063.5" width="549.9" height="149.5" rx="0" fill="#F4FAF0" stroke="#4D4D4D" stroke-width="1.2"/>
+<rect x="1254.9" y="1063.5" width="549.9" height="42.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1.2"/>
+<text x="1529.9" y="1080.5" font-size="11" text-anchor="middle" fill="#2B2B2B">«service»</text>
+<text x="1529.9" y="1096.5" font-size="13" text-anchor="middle" fill="#2B2B2B" font-weight="bold">ServicoEstoque</text>
+<line x1="1254.9" y1="1115.5" x2="1804.8" y2="1115.5" stroke="#4D4D4D" stroke-width="1"/>
+<text x="1264.9" y="1131.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ selecionarLotesFEFO(material: Material, qtd: double): List&lt;LoteMaterial&gt;</text>
+<text x="1264.9" y="1149.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ reservar(ordem: OrdemProducao): List&lt;Reserva&gt;</text>
+<text x="1264.9" y="1166.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ validarConsumos(consumos: List&lt;Consumo&gt;): boolean</text>
+<text x="1264.9" y="1184.0" font-size="13" text-anchor="start" fill="#2B2B2B">+ baixarConsumo(reserva: Reserva, lote: LoteMaterial, qtd: double): MovimentacaoEstoque</text>
+<text x="1264.9" y="1201.5" font-size="13" text-anchor="start" fill="#2B2B2B">+ verificarAlertas(): void</text>
+<text x="1977.4" y="831.0" font-size="13" text-anchor="start" fill="#2B2B2B" font-weight="bold">Legenda</text>
+<rect x="1977.4" y="843.0" width="22.0" height="15.0" rx="0" fill="#BDD7EE" stroke="#4D4D4D" stroke-width="1"/>
+<text x="2007.4" y="855.0" font-size="12" text-anchor="start" fill="#2B2B2B">Gestão de Produção</text>
+<rect x="1977.4" y="867.0" width="22.0" height="15.0" rx="0" fill="#C5E0B4" stroke="#4D4D4D" stroke-width="1"/>
+<text x="2007.4" y="879.0" font-size="12" text-anchor="start" fill="#2B2B2B">Gestão de Estoque e Logística</text>
+<rect x="1977.4" y="891.0" width="22.0" height="15.0" rx="0" fill="#F8CBAD" stroke="#4D4D4D" stroke-width="1"/>
+<text x="2007.4" y="903.0" font-size="12" text-anchor="start" fill="#2B2B2B">Qualidade e Auditoria</text>
+<rect x="1977.4" y="915.0" width="22.0" height="15.0" rx="0" fill="#D9D9D9" stroke="#4D4D4D" stroke-width="1"/>
+<text x="2007.4" y="927.0" font-size="12" text-anchor="start" fill="#2B2B2B">Cadastros</text>
+<text x="1977.4" y="959.0" font-size="11" text-anchor="start" fill="#555555">Atributos do tipo Usuario representam</text>
+<text x="1977.4" y="973.0" font-size="11" text-anchor="start" fill="#555555">associações com a classe Usuario.</text>
+<text x="1977.4" y="991.0" font-size="11" text-anchor="start" fill="#555555">Métodos get/set foram omitidos.</text></svg>
